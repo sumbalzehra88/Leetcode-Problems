@@ -6,9 +6,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/0011-container-with-most-water) |
 | [2714-left-and-right-sum-differences](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/2714-left-and-right-sum-differences) |
 ## Prefix Sum
 |  |
 | ------- |
 | [2714-left-and-right-sum-differences](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/2714-left-and-right-sum-differences) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
