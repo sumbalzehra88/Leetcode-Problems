@@ -16,11 +16,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/0011-container-with-most-water) |
+| [0768-partition-labels](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/0768-partition-labels) |
 | [2481-strictly-palindromic-number](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/2481-strictly-palindromic-number) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/0011-container-with-most-water) |
+| [0768-partition-labels](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/0768-partition-labels) |
 ## Math
 |  |
 | ------- |
@@ -29,4 +31,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2481-strictly-palindromic-number](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/2481-strictly-palindromic-number) |
+## Hash Table
+|  |
+| ------- |
+| [0768-partition-labels](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/0768-partition-labels) |
+## String
+|  |
+| ------- |
+| [0768-partition-labels](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/0768-partition-labels) |
 <!---LeetCode Topics End-->
