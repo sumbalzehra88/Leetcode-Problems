@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/0011-container-with-most-water) |
 | [0768-partition-labels](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/0768-partition-labels) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2481-strictly-palindromic-number](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/2481-strictly-palindromic-number) |
 ## Greedy
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/0011-container-with-most-water) |
 | [0768-partition-labels](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/0768-partition-labels) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Math
 |  |
 | ------- |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0768-partition-labels](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/0768-partition-labels) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Simulation
 |  |
 | ------- |
@@ -52,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+## Stack
+|  |
+| ------- |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 <!---LeetCode Topics End-->
