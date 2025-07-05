@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/0011-container-with-most-water) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2519-find-the-original-array-of-prefix-xor](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2714-left-and-right-sum-differences](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/2714-left-and-right-sum-differences) |
 ## Prefix Sum
 |  |
@@ -59,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2519-find-the-original-array-of-prefix-xor](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/2519-find-the-original-array-of-prefix-xor) |
 <!---LeetCode Topics End-->
