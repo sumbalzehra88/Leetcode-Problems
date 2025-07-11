@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2481-strictly-palindromic-number](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/2481-strictly-palindromic-number) |
+| [2572-append-characters-to-string-to-make-subsequence](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 ## Greedy
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2572-append-characters-to-string-to-make-subsequence](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 ## Math
 |  |
 | ------- |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/0768-partition-labels) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2572-append-characters-to-string-to-make-subsequence](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 ## Simulation
 |  |
 | ------- |
