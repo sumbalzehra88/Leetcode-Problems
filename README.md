@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/2572-append-characters-to-string-to-make-subsequence) |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Simulation
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/2519-find-the-original-array-of-prefix-xor) |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Linked List
 |  |
 | ------- |
@@ -81,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0647-palindromic-substrings](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/0647-palindromic-substrings) |
+## Backtracking
+|  |
+| ------- |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 <!---LeetCode Topics End-->
