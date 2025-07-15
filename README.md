@@ -87,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
+## Database
+|  |
+| ------- |
+| [3816-dna-pattern-recognition](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/3816-dna-pattern-recognition) |
 <!---LeetCode Topics End-->
