@@ -91,4 +91,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3816-dna-pattern-recognition](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/3816-dna-pattern-recognition) |
+| [3848-analyze-subscription-conversion](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/3848-analyze-subscription-conversion) |
 <!---LeetCode Topics End-->
