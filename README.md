@@ -47,10 +47,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0768-partition-labels](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/0768-partition-labels) |
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0647-palindromic-substrings](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/0647-palindromic-substrings) |
 | [0768-partition-labels](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/0768-partition-labels) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -92,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3816-dna-pattern-recognition](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/3816-dna-pattern-recognition) |
 | [3848-analyze-subscription-conversion](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/3848-analyze-subscription-conversion) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
