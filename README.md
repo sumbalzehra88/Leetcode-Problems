@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0768-partition-labels](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/0768-partition-labels) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 ## String
 |  |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0647-palindromic-substrings](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/0647-palindromic-substrings) |
 | [0768-partition-labels](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/0768-partition-labels) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/2572-append-characters-to-string-to-make-subsequence) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/0187-repeated-dna-sequences) |
 | [0424-longest-repeating-character-replacement](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/0438-find-all-anagrams-in-a-string) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Binary Search
