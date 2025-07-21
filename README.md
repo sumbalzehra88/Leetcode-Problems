@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/0011-container-with-most-water) |
+| [0413-arithmetic-slices](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/0413-arithmetic-slices) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0413-arithmetic-slices](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/0413-arithmetic-slices) |
 | [0647-palindromic-substrings](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/0647-palindromic-substrings) |
 ## Backtracking
 |  |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0187-repeated-dna-sequences](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/0187-repeated-dna-sequences) |
+| [0413-arithmetic-slices](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/0413-arithmetic-slices) |
 | [0424-longest-repeating-character-replacement](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
