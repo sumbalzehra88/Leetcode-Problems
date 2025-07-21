@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/0011-container-with-most-water) |
 | [0413-arithmetic-slices](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/0413-arithmetic-slices) |
+| [1370-count-number-of-nice-subarrays](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1370-count-number-of-nice-subarrays](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2714-left-and-right-sum-differences](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/2714-left-and-right-sum-differences) |
 ## Two Pointers
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1370-count-number-of-nice-subarrays](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [2481-strictly-palindromic-number](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/2481-strictly-palindromic-number) |
 ## Brainteaser
 |  |
@@ -57,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0768-partition-labels](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/0768-partition-labels) |
+| [1370-count-number-of-nice-subarrays](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 ## String
@@ -119,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0413-arithmetic-slices](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/0413-arithmetic-slices) |
 | [0424-longest-repeating-character-replacement](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/0438-find-all-anagrams-in-a-string) |
+| [1370-count-number-of-nice-subarrays](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
