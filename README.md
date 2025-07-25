@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/0011-container-with-most-water) |
+| [0039-combination-sum](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/0039-combination-sum) |
 | [0413-arithmetic-slices](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/0413-arithmetic-slices) |
 | [1370-count-number-of-nice-subarrays](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/0039-combination-sum) |
 | [0131-palindrome-partitioning](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/0131-palindrome-partitioning) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Database
