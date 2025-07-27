@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/0096-unique-binary-search-trees) |
 | [1370-count-number-of-nice-subarrays](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [2481-strictly-palindromic-number](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/2481-strictly-palindromic-number) |
 ## Brainteaser
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/0096-unique-binary-search-trees) |
 | [0131-palindrome-partitioning](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/0131-palindrome-partitioning) |
 | [0413-arithmetic-slices](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/0413-arithmetic-slices) |
 | [0647-palindromic-substrings](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/0647-palindromic-substrings) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/0096-unique-binary-search-trees) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -163,5 +166,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/0096-unique-binary-search-trees) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/1544-count-good-nodes-in-binary-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
