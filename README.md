@@ -148,4 +148,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/0187-repeated-dna-sequences) |
+## Tree
+|  |
+| ------- |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/1544-count-good-nodes-in-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/1544-count-good-nodes-in-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/1544-count-good-nodes-in-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/1544-count-good-nodes-in-binary-tree) |
 <!---LeetCode Topics End-->
