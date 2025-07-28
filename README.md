@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/0011-container-with-most-water) |
 | [0039-combination-sum](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/0039-combination-sum) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0413-arithmetic-slices](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/0413-arithmetic-slices) |
 | [1370-count-number-of-nice-subarrays](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0187-repeated-dna-sequences](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/0187-repeated-dna-sequences) |
 | [0424-longest-repeating-character-replacement](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/0096-unique-binary-search-trees) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -167,9 +170,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/0096-unique-binary-search-trees) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/0096-unique-binary-search-trees) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 <!---LeetCode Topics End-->
