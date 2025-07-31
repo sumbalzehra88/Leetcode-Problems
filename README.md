@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/0011-container-with-most-water) |
 | [0039-combination-sum](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/0039-combination-sum) |
 | [0054-spiral-matrix](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/0059-spiral-matrix-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0413-arithmetic-slices](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/0413-arithmetic-slices) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/0059-spiral-matrix-ii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
@@ -196,4 +198,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/0059-spiral-matrix-ii) |
 <!---LeetCode Topics End-->
