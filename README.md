@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/0020-valid-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/0131-palindrome-partitioning) |
 | [0187-repeated-dna-sequences](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/0187-repeated-dna-sequences) |
 | [0424-longest-repeating-character-replacement](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/0424-longest-repeating-character-replacement) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/0020-valid-parentheses) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
