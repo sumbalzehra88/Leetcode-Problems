@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0975-range-sum-of-bst](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/0975-range-sum-of-bst) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1254-deepest-leaves-sum](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/1254-deepest-leaves-sum) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/0513-find-bottom-left-tree-value) |
 | [0538-convert-bst-to-greater-tree](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/0538-convert-bst-to-greater-tree) |
 | [0975-range-sum-of-bst](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/0975-range-sum-of-bst) |
+| [1254-deepest-leaves-sum](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/1254-deepest-leaves-sum) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/0226-invert-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/0513-find-bottom-left-tree-value) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/0764-n-ary-tree-level-order-traversal) |
+| [1254-deepest-leaves-sum](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/1254-deepest-leaves-sum) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -220,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0975-range-sum-of-bst](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/0975-range-sum-of-bst) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1254-deepest-leaves-sum](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/1254-deepest-leaves-sum) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Search Tree
 |  |
