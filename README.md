@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/0131-palindrome-partitioning) |
 | [0413-arithmetic-slices](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/0413-arithmetic-slices) |
 | [0647-palindromic-substrings](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/0647-palindromic-substrings) |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Backtracking
 |  |
 | ------- |
@@ -249,4 +250,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+## Graph
+|  |
+| ------- |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+## Shortest Path
+|  |
+| ------- |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/sumbalzehra88/Leetcode-Problems/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 <!---LeetCode Topics End-->
